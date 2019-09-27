@@ -1,0 +1,6 @@
+Confirmation
+Your Request has been created successfully
+Your Service Request number is :SR492342256
+Please note the same for future reference.
+Your request would be processed by 15-09-2017
+By clicking 'Track your Service Request',You can also check the status of your request
